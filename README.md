@@ -26,7 +26,7 @@ Taking a budget tracking application and updating it to allow for offline access
 Made and designed by Tony Huang.
 
 ## Live Deployment
-Application can be viewed online through <a href='' target="_blank">Heroku</a>
+Application can be viewed online through <a href='https://budget-tracker-withofflinepwa.herokuapp.com/' target="_blank">Heroku</a>
 
 ## Final Results
 Main Landing Page
